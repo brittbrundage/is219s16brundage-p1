@@ -68,7 +68,7 @@
 
 
     <!-- Header -->
-    <a name="about"></a>
+    <a name="education"></a>
     <div class="intro-header">
         <div class="container">
 
@@ -101,7 +101,7 @@
 
     <!-- Page Content -->
 
-	<a  name="services"></a>
+	<a  name="interests"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -123,7 +123,8 @@
     </div>
     <!-- /.content-section-a -->
 
-    <div class="content-section-b">
+    <a  name="experience"></a>
+    <div class="content-section-a">
 
         <div class="container">
 
