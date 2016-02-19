@@ -174,7 +174,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Experience</h2><br>
-                    <p class="lead">NJIT Strategic Communications 
+                    <p class="lead">NJIT Strategic Communications  <br>
                     University Heights, Newark, NJ <Br>
                     Web Production Assistant and Photographer <br>
                     August 1, 2012 - Present <Br> <Br>
