@@ -173,8 +173,18 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                    <h2 class="section-heading">Experience</h2><br>
+                    <p class="lead">NJIT Strategic Communications 
+                    University Heights, Newark, NJ <Br>
+                    Web Production Assistant and Photographer <br>
+                    August 1, 2012 - Present <Br> <Br>
+                    
+                   <a target="_blank" href="http://www.morrisbridalwedding.com">A. Bridal Co. & Formal </a> <br>
+                   828 State Route 15, Lake Hopatcong, NJ  <br>
+                   Website Manager, Bridal Sales Rep, and Book keeper <br>
+                   February 2014 - Present
+                 
+                    </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/dog.png" alt="">
