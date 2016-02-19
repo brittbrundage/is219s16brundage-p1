@@ -111,8 +111,9 @@
     <div class="content-section-a">
 
         <div class="container">
+
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Education:</h2>
@@ -122,13 +123,19 @@
                     <p class="lead"><a target="_blank" href="http://njit.edu/">New Jersey Institute of Technology</a><br> 
                      Anticipated Graduation: Fall 2016 <Br>
                      Bachelor Of Science: Web and Information Systems</p>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
+                     </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="img/dog.png" alt="">
                 </div>
             </div>
 
         </div>
+        <!-- /.container -->
+
+    </div>
+
+
+
         <!-- /.container -->
 
 
