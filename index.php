@@ -204,9 +204,9 @@
                         <li>
                             <a href="https://www.linkedin.com/in/brittani-brundage-19434a104" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                         </li>
-                        <
+                        
                         <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">bmb23@njit.edu</span></a>
+                            <a href="#" class="btn btn-default btn-lg"><i class="fa fa-email fa-fw"></i> <span class="network-name">bmb23@njit.edu</span></a>
                         </li>
                       <!--  <li>
                             <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a> -->
