@@ -76,7 +76,7 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
                         <h1>Brittani Brundage</h1>
-                        <h3>Come, get to know me!</h3>
+                        <h3>Come, learn about me!</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
@@ -115,8 +115,13 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <h2 class="section-heading">Education:</h2>
+                    
+                    
+                    
+                    <p class="lead"><a target="_blank" href="http://njit.edu/">New Jersey Institute of Technology</a><br> 
+                     Anticipated Graduation: Fall 2016 <Br>
+                     Bachelor Of Science: Web and Information Systems</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/ipad.png" alt="">
