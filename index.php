@@ -80,9 +80,16 @@
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
-                               <a href="https://www.linkedin.com/in/brittani-brundage-19434a104" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
-                                
-                            </li>
+                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">973-464-1039</span></a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
+                        </li>
+                        
+                        
+                        <li>
+                            <a href="https://www.linkedin.com/in/brittani-brundage-19434a104" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                        </li>
                             <li>
                                <!-- <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
@@ -201,16 +208,20 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
+                         <li>
+                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">973-464-1039</span></a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
+                        </li>
+                        
+                        
                         <li>
                             <a href="https://www.linkedin.com/in/brittani-brundage-19434a104" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                         </li>
                         
-                        <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
-                        </li>
-                         <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">973-464-1039</span></a>
-                        </li>
+                       
+                         
                       <!--  <li>
                             <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a> -->
                         </li>
