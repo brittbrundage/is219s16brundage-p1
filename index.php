@@ -186,6 +186,15 @@
                    828 State Route 15, Lake Hopatcong, NJ  <br>
                    Website Manager, Bridal Sales Rep, and Book keeper <br>
                    February 2014 - Present
+                   <br><br>
+                   
+                   Internship at Saint Michael's Medical Center <br>
+                   111 Centeral Ave, Newark, NJ <Br>
+                   IT Help Desk <br>
+                   June 2012 - September 2013 
+                   
+                   
+             
                  
                     </p>
                 </div>
