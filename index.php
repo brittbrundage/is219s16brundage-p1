@@ -57,6 +57,9 @@
                         <a href="#experience">Experience</a>
                     </li>
                     <li>
+                        <a href="#campus">Activities</a>
+                    </li>
+                    <li>
                         <a href="#contact">Contact</a>
                     </li>
                 </ul>
@@ -191,12 +194,7 @@
                    Internship at Saint Michael's Medical Center <br>
                    111 Centeral Ave, Newark, NJ <Br>
                    IT Help Desk <br>
-                   June 2012 - September 2013 
-                   
-                   
-             
-                 
-                    </p>
+                   June 2012 - September 2013  </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/dog.png" alt="">
@@ -209,6 +207,7 @@
     </div>
     <!-- /.content-section-b -->
 
+ <a  name="campus"></a>
     <div class="content-section-a">
 
         <div class="container">
