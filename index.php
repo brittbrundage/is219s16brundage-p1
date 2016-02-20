@@ -294,6 +294,10 @@
                          <li>
                             <a href="#experience">Experience</a>
                         </li>
+                           <li class="footer-menu-divider">&sdot;</li>
+                         <li>
+                        <a href="#campus">Activities</a>
+                    </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="#contact">Contact</a>
