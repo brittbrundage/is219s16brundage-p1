@@ -150,8 +150,11 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <h2 class="section-heading">Interests</h2>
+                    <p class="lead"> Microsoft Office, Adobe, Windows 7, Windows 8, Mac OS X Lion, Mac OS X Mavericks, Eclipse, 				Python, PHP, HTML, HTML5, CSS, Site Studio, Drupal, Linux, QuickBooks, Word Press, Webdam, SSH Secure Shell
+                    
+                    
+                    </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/ipad.png" alt="">
