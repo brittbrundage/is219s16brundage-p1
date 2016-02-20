@@ -86,7 +86,7 @@
                             <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">973-464-1039</span></a>
                         </li>
                         <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
+                            <a href="mailto:bmb23@njit.edu" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
                         </li>
                         
                         
@@ -120,9 +120,6 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Education:</h2>
-                    
-                    
-                    
                     <p class="lead"><a target="_blank" href="http://njit.edu/">New Jersey Institute of Technology</a><br> 
                      Anticipated Graduation: Fall 2016 <Br>
                      Bachelor Of Science: Web and Information Systems</p>
@@ -250,7 +247,7 @@
                             <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">973-464-1039</span></a>
                         </li>
                         <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
+                            <a href="mailto:bmb23@njit.edu" class="btn btn-default btn-lg"><i class=""></i> <span class="network-name">bmb23@njit.edu</span></a>
                         </li>
                         
                         
