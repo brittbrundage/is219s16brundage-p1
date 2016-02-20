@@ -225,7 +225,7 @@
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/phones.png" alt="">
+                    <img class="img-responsive" src="img/sigma.png" alt="">
                 </div>
             </div>
 
